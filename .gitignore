@@ -1,0 +1,31 @@
+# Build/binaries
+build/
+bin/
+obj/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+# IDE/OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+# Logs/tmp
+*.log
+*.tmp
+*.swp
+# Python env (if any)
+.venv/
+venv/
+__pycache__/
+*.pyc
+# Data (consider LFS)
+data/
